@@ -1,6 +1,7 @@
 {
   "name": "silverorange/building",
   "description": "Basic CMS framework.",
+  "abandoned": true,
   "license": "MIT",
   "type": "library",
   "keywords": [
